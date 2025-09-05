@@ -205,6 +205,7 @@ footer {
   margin: 2rem 0 1rem;
   font-size: 0.9rem;
   color: var(--text);
+  border-top:solid 1px rgb(61, 61, 61);
 }
 
 a {
