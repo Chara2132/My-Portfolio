@@ -33,4 +33,4 @@ Il mio portfolio include una panoramica delle mie abilità, progetti realizzati 
 1. Clona il repository:
 
    ```bash
-   git clone https://github.com/Chara2132/My-Portfolio
+   git clone https://github.com/Chara2132/My-Portfolio.git
