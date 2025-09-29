@@ -44,6 +44,11 @@ header {
 .nav-container h1 {
   margin: 0;
   font-weight: 700;
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 #toggle-theme {
