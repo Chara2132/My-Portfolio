@@ -51,6 +51,11 @@ header nav{
 .nav-container h1 {
   margin: 0;
   font-weight: 700;
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 #toggle-theme {
@@ -212,6 +217,7 @@ footer {
   margin: 2rem 0 1rem;
   font-size: 0.9rem;
   color: var(--text);
+  border-top:solid 1px rgb(61, 61, 61);
 }
 
 a {
